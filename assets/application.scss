@@ -1,0 +1,24 @@
+---
+---
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import 'bootstrap';
+
+$orange: #fa8100;
+$green: #4b7069;
+
+body {
+  font-family: 'Open Sans';
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  font-size: 8em;
+  color: $orange;
+}
+
+h2 {
+  font-size: 5em;
+  color: $green;
+}

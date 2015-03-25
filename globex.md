@@ -1,0 +1,4 @@
+---
+title: GLOBEX
+expansion: Fake
+---
