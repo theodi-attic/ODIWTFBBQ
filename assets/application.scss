@@ -10,15 +10,20 @@ $green: #4b7069;
 body {
   font-family: 'Open Sans';
   font-weight: bold;
-  text-align: center;
 }
 
 h1 {
-  font-size: 8em;
+  text-align: center;
+  font-size: 5em;
   color: $orange;
 }
 
 h2 {
-  font-size: 5em;
+  text-align: center;
+  font-size: 3em;
   color: $green;
+}
+
+h3 {
+  text-align: center;
 }
