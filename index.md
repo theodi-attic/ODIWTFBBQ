@@ -15,7 +15,6 @@ title: ODIWTFBBQ
 * [firestation](firestation)
 * [globex](globex)
 * [hydra](hydra)
-* [index](index)
 * [lasagne](lasagne)
 * [marcopolo](marcopolo)
 * [mosaic](mosaic)
